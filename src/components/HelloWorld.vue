@@ -4,7 +4,7 @@
     <p>
       Desenvolvedor fullstack | Músico | Iustrador <br>
       check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      <a href="mailto:gualbluessound@gmail.com" target="_blank" rel="noopener">mailto:gualbluessound@gmail.com</a>.
     </p>
     
   </div>                           
@@ -34,5 +34,10 @@ li {
 }
 a {
   color: #42b983;
+}
+body{
+  margin:0;
+  padding:0;
+  background-color: #2c3c4b !important;
 }
 </style>
